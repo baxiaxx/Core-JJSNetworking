@@ -1,0 +1,22 @@
+{
+  "name": "Core-JJSNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of Core-JJSNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Core-JJSNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "baxiaxx": "285558940@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Core-JJSNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Core-JJSNetworking/Classes/**/*"
+}

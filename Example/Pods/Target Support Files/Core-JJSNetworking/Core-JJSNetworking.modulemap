@@ -1,0 +1,6 @@
+framework module Core_JJSNetworking {
+  umbrella header "Core-JJSNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

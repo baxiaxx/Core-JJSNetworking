@@ -1,0 +1,6 @@
+framework module Pods_Core_JJSNetworking_Tests {
+  umbrella header "Pods-Core-JJSNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

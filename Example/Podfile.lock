@@ -1,0 +1,16 @@
+PODS:
+  - Core-JJSNetworking (0.1.0)
+
+DEPENDENCIES:
+  - Core-JJSNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  Core-JJSNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Core-JJSNetworking: 5e5d8c9bc6ed9f7756c857f49da933caa18b1e7c
+
+PODFILE CHECKSUM: ee136a895026c25ce1d79707deaa94e299a49055
+
+COCOAPODS: 1.2.0.beta.3
