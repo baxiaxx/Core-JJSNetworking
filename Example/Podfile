@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Core-JJSNetworking_Tests' do
+  pod 'Core-JJSNetworking', :path => '../'
+  
+  
+end
